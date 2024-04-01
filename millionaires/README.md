@@ -32,22 +32,17 @@ Encontré este conjunto de datos en Kaggle. Quiero profundizar en los datos y mo
 
 ![tab_cont](https://github.com/NikiDevelop/data-analyst-projects/assets/105102619/ea6d24d9-d020-4fb0-97f6-1788cf13ab37)
 
-Key Observations about the billionaires:
+Conclusiones:
 
-Most of the Billionaires hails from USA,China and India.
+• La mayoría de los multimillonarios provienen de Estados Unidos, China e India. <br> 
+• El sector inmobiliario es un tesoro lleno de multimillonarios, seguido por la industria farmacéutica, las inversiones, la diversificación, el software, etc. <br>
+• La edad más destacada para convertirse en multimillonario es después de los 50 años. <br>
+• Incluso los mayores están teniendo éxito, como George Joseph, David Murdock y Ana María Brescia Cafferata. <br> 
+• El sector inmobiliario ha demostrado que tiene la mayor cantidad de multimillonarios registrados, así como también es el sector más próspero entre otros. <br> 
+• Un título no es necesario para convertirse en multimillonario. <br>
+• Ciudades favoritas para residirs: Nueva York (USA), Pekín (China) y Mumbai (India). <br>
+• La industria que predomina en cada continente es: Europa (Moda y venta al por menor), Norte América (Finanzas e inversiones), Asia (Manufactura), Sur América (Finanzas e inversiones), África (Diversificado) y Oceanía (Metales y minería)
 
-Real Estate is a Gold full of billionaires.followed by pharmaceuticals,investments,diversified,software etc.
 
-Most prominent age to become a billionaire is after 50s.
-
-Even oldies are doing good ,from the likes of George Joseph,David Murdock and Ana Maria Brescia Cafferata.
-
-Real estate proved that it has most no. of record billionaires as well as wealthy sector among others.
-
-Marriage plays important role to become a billionaire.
-
-Degree is not necessary to become a billionaries.
-
-Favourite city destination to reside among countries New York(USA),Beijing(china) and Mumbai(India)
 
 Link dataset: https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset
