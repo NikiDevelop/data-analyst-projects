@@ -2,7 +2,6 @@
 
 Para este proyecto el objetivo es entender los negocios en que se enfocan los ricos, y saber que industrias son las que más ricos hay, que países tiene más ricos, en qué continente viven y qué género suele emprender más. <br>
 Encontré este conjunto de datos en Kaggle. Quiero profundizar en los datos y mostrarles qué multimillonarios son los más influyentes y cómo han amasado su riqueza. Pero antes de profundizar en el análisis de los datos, establezcamos algunas preguntas clave que pretendemos responder:
-He extraido el dataset de Kaggle 
 
 
 • ¿Quiénes son los principales multimillonarios del mundo? <br>
