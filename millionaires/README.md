@@ -5,9 +5,9 @@ Encontré este conjunto de datos en Kaggle. Quiero profundizar en los datos y mo
 
 
 • ¿Quiénes son los principales multimillonarios del mundo? <br>
-• ¿A qué industrias pertenecen predominantemente? <br>
+• ¿A qué industrias pertenecen? <br>
 • ¿Qué listas principales se pueden definir? <br> 
- •¿Cuál es la proporción entre multimillonarios hechos a sí mismos y no multimillonarios? <br>
+ •¿Cuál es la proporción entre multimillonarios hechos a sí mismos y no? <br>
 • ¿Qué factores contribuyen el género y la región a la riqueza? <br> 
 • ¿Cuáles son los países más ricos del mundo? <br>
 • ¿Qué industrias predominan en cada continente? <br> <br>
