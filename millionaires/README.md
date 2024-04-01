@@ -7,7 +7,7 @@ Encontré este conjunto de datos en Kaggle. Quiero profundizar en los datos y mo
 • ¿Quiénes son los principales multimillonarios del mundo? <br>
 • ¿A qué industrias pertenecen? <br>
 • ¿Qué listas principales se pueden definir? <br> 
- •¿Cuál es la proporción entre multimillonarios hechos a sí mismos y no? <br>
+• ¿Cuál es la proporción entre multimillonarios hechos a sí mismos y no? <br>
 • ¿Qué factores contribuyen el género y la región a la riqueza? <br> 
 • ¿Cuáles son los países más ricos del mundo? <br>
 • ¿Qué industrias predominan en cada continente? <br> <br>
@@ -16,7 +16,21 @@ Encontré este conjunto de datos en Kaggle. Quiero profundizar en los datos y mo
 
 ![top10mult](https://github.com/NikiDevelop/data-analyst-projects/assets/105102619/39cee890-3fc9-484b-9861-9f1c1de66e29)
 
+## Top Industrias
 
+![barplot_indust](https://github.com/NikiDevelop/data-analyst-projects/assets/105102619/9f3e35ce-a776-4dac-87d3-45b4ec7e67a0)
+
+## Género en la Industrias por Edades
+
+![bar_gend](https://github.com/NikiDevelop/data-analyst-projects/assets/105102619/426c9c32-23b1-4cd1-b761-a35c71b1c7a3)
+
+## Top 5 Países 
+
+![top5pais](https://github.com/NikiDevelop/data-analyst-projects/assets/105102619/a55a76dc-48c3-47d3-8838-e7cae0246e84)
+
+## Continentes 
+
+![tab_cont](https://github.com/NikiDevelop/data-analyst-projects/assets/105102619/ea6d24d9-d020-4fb0-97f6-1788cf13ab37)
 
 Key Observations about the billionaires:
 
