@@ -1,7 +1,7 @@
 # Mulmillonarios
 
 Para este proyecto el objetivo es entender los negocios en que se enfocan los ricos, y saber que industrias son las que más ricos hay, que países tiene más ricos, en qué continente viven y qué género suele emprender más. <br>
-Encontré este conjunto de datos en Kaggle. Quiero profundizar en los datos y mostrarles qué multimillonarios son los más influyentes y cómo han amasado su riqueza. Pero antes de profundizar en el análisis de los datos, establezcamos algunas preguntas clave que pretendemos responder:
+Encontré este conjunto de datos en Kaggle. Quiero profundizar en los datos y mostrarles qué multimillonarios son los más influyentes y cómo han amasado su riqueza. Pero antes de profundizar en el análisis de los datos, establezcamos algunas preguntas clave que pretendemos responder: (datos de 2023)
 
 
 • ¿Quiénes son los principales multimillonarios del mundo? <br>
@@ -11,6 +11,13 @@ Encontré este conjunto de datos en Kaggle. Quiero profundizar en los datos y mo
 • ¿Qué factores contribuyen el género y la región a la riqueza? <br> 
 • ¿Cuáles son los países más ricos del mundo? <br>
 • ¿Qué industrias predominan en cada continente? <br> <br>
+
+## Top 10 Multimillonarios del mundo
+
+![top10mult](https://github.com/NikiDevelop/data-analyst-projects/assets/105102619/39cee890-3fc9-484b-9861-9f1c1de66e29)
+
+
+
 Key Observations about the billionaires:
 
 Most of the Billionaires hails from USA,China and India.
